@@ -715,26 +715,6 @@ video {
   clear: none;
 }
 
-.mx-4 {
-  margin-left: 1rem;
-  margin-right: 1rem;
-}
-
-.mx-6 {
-  margin-left: 1.5rem;
-  margin-right: 1.5rem;
-}
-
-.mx-\[100px\] {
-  margin-left: 100px;
-  margin-right: 100px;
-}
-
-.mx-\[200px\] {
-  margin-left: 200px;
-  margin-right: 200px;
-}
-
 .mx-\[140px\] {
   margin-left: 140px;
   margin-right: 140px;
@@ -1994,14 +1974,21 @@ video {
   vertical-align: super;
 }
 
+.font-teachers {
+  font-family: Teachers, sans-serif;
+}
+
+.font-yaldevi {
+  font-family: Yaldevi, sans-serif;
+}
+
+.font-platypi {
+  font-family: Platypi, sans-serif;
+}
+
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
-}
-
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
 }
 
 .font-bold {
